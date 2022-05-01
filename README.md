@@ -2,7 +2,7 @@
 
 This is my GitHub profile 🙋‍♂️
 
-French Computer Science student based 🇫🇷, I'm passionate about web stuffs 🌍 <br />
+French Computer Science student 🇫🇷, I'm passionate about software development 🌍 <br />
 I'm working with several languages such as Java, JavaScript, PHP ... <br /> 
 
 ## ● Contact 📞
