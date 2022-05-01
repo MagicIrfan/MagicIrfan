@@ -26,6 +26,3 @@ I'm working with several languages such as Java, JavaScript, PHP ... <br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=magicirfan&layout=compact&count_private=true&theme=calm&hide=css,HTML)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicirfan&show_icons=true&theme=calm&count_private=true&show_icons=true)
-
-## Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=magicirfan&theme=calm)](https://git.io/streak-stats)
