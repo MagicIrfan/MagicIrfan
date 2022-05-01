@@ -27,5 +27,5 @@ I'm working with several languages such as Java, JavaScript, PHP ... <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicirfan&show_icons=true&theme=calm&count_private=true&show_icons=true)
 
-## Streaks 🔥
+## Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=magicirfan&theme=calm)](https://git.io/streak-stats)
