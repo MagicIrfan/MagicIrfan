@@ -1,6 +1,6 @@
 # Hi, I'm Irfan
 
-This is my GitHub profile 🙋‍♂️
+This is my GitHub profile
 
 French Computer Science student 🇫🇷, I'm passionate about software development 💻 <br />
 I'm working with several languages such as Java, JavaScript, PHP ... <br /> 
