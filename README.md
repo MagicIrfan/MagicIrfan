@@ -3,7 +3,6 @@
 This is my GitHub profile
 
 French Computer Science student 🇫🇷, I'm passionate about software development 💻 <br />
-I'm working with several languages such as Java, JavaScript, PHP ... <br /> 
 
 ## Contact 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
