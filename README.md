@@ -1,25 +1,27 @@
-# Salut, je suis Irfan 👋
+# Hi, I'm Irfan
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique à IMT Mines Alès en France, passionné par le développement de logiciels. 💻
+This is my GitHub profile
 
-## Contact
-Si vous souhaitez me contacter, n'hésitez pas à me connecter sur [LinkedIn](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/) en utilisant le badge ci-dessous :
+French Computer Science student 🇫🇷 at IMT Mines Alès, I'm passionate about software development 💻 <br />
 
+## Contact 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
 
-## Langages préférés
-J'aime travailler avec une variété de langages de programmation, mais voici mes préférés :
+## My favorite languages 
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) 
+[![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
 
-- [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-- [PHP](https://www.php.net/)
-- [Java](https://www.java.com/fr/)
-- [C++](https://www.cplusplus.com/)
+## My favorites Frameworks/Tools 
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) 
+[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#) 
+[![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
+[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) 
 
-## Frameworks/Outils préférés
-J'ai également de l'expérience de travail avec une variété de frameworks et d'outils. Certains de mes préférés comprennent :
+## My Statistics 
 
-- [React](https://reactjs.org/)
-- [Angular](https://angular.io/)
-- [JQuery](https://jquery.com/)
-- [Qt](https://www.qt.io/)
-- [NodeJS](https://nodejs.org/en/)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=magicirfan&layout=compact&count_private=true&theme=calm&hide=css,HTML)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicirfan&show_icons=true&theme=calm&count_private=true&show_icons=true)
