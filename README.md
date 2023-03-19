@@ -2,7 +2,7 @@
 
 This is my GitHub profile
 
-French Computer Science & Network student 🇫🇷 at IMT Mines Alès, I'm passionate about software development 💻 <br />
+French Computer Science & Network student at IMT Mines Alès, I'm passionate about software development<br />
 
 ## Contact 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
