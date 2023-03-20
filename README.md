@@ -8,7 +8,7 @@ French Computer Science & Network student at IMT Mines Alès, I'm passionate abo
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
 
 ## My favorite languages 
-[![TypeScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)](#) 
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
 [![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
 
