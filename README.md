@@ -1,6 +1,7 @@
 # Voici mon profil GitHub
 
 Etudiant en Informatique et Réseaux à IMT Mines Alès, je suis passionné par le développement de logiciels. <br/>
+
 Mon profil GitHub contient mes projets et contributions, ainsi que des informations sur mes compétences en programmation et mes centres d'intérêt dans le domaine de l'informatique. N'hésitez pas à y jeter un coup d'œil !
 
 ## Contact 
