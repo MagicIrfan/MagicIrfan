@@ -4,6 +4,10 @@ Etudiant en Informatique et Réseaux à IMT Mines Alès, je suis passionné par 
 
 Mon profil GitHub contient mes projets et contributions, ainsi que des informations sur mes compétences en programmation et mes centres d'intérêt dans le domaine de l'informatique. N'hésitez pas à y jeter un coup d'œil !
 
+## Mon site personnel :
+
+https://magicirfan.github.io/
+
 ## Contact 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
 
