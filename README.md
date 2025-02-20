@@ -1,9 +1,6 @@
 # Here's my GitHub profile
 I'm studying Computer Science and Networks at IMT Mines Alès, and I'm passionate about software development. 
 
-## Contact 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
-
 ## My stats
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=magicirfan&layout=compact&count_private=true&theme=calm&hide=css,HTML)
