@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Irfan+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Irfan+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -40,16 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magicirfan&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magicirfan&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-bouhenaf-7371501b6/)
 
----
